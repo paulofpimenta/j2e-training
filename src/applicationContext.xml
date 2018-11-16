@@ -7,7 +7,7 @@
 
 	<!-- Read annotations -->
 	<context:annotation-config />
-	<context:component-scan base-package="com.training.springsecond"></context:component-scan>
+	<context:component-scan base-package="br.paulo.training"></context:component-scan>
 	
 
 </beans>

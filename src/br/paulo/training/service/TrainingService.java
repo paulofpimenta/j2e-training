@@ -10,10 +10,13 @@ import br.paulo.training.dao.ITrainingDao;
 
 @Service
 public class TrainingService implements ITrainingService {
-
+	
+	// Deja fait
 	@Autowired
 	private ITrainingDao dao;
 	
+	
+
 	@Override
 	public int addTraining(Training t) {
 		// TODO Auto-generated method stub
